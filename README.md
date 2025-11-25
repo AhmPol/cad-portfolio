@@ -12,9 +12,6 @@ original-projects/ → My own designs and mechanical concepts
 renderings/ → Best project renderings (PNG, JPG)
 exports/ → STEP files for all major parts
 
-yaml
-Copy code
-
 ---
 
 ## Featured Projects
@@ -33,42 +30,16 @@ A full mechanical assembly modeled in Onshape.
 
 ---
 
-### **2. Pneumatic Piston Model**
-Fully parametric piston created in Fusion 360.
-
-- Constraints and joints  
-- Motion study  
-- Technical drawing  
-
-**Files:**  
-`tutorials/piston-project/`
-
----
-
-### **3. Robotic Arm Concept**
-Custom multi-joint arm with rotational constraints.
-
-- Designed for future control simulation  
-- Assembly relationships defined  
-- Exported as STEP  
-
-**Files:**  
-`original-projects/robotic-arm/`
-
----
-
 ## Tools Used
 
 - **Fusion 360**
 - **Onshape**
-- **KeyShot / Fusion Render (optional)**
-- **Illustrator / Figma** for annotations (optional)
 
 ---
 
 ## Purpose
 
-This portfolio demonstrates my mechanical design development in preparation for studying **Mechanical Engineering at York University**, with interests in:
+This portfolio demonstrates my mechanical design development in preparation for studying **Mechanical Engineering**, with interests in:
 
 - Robotics  
 - Mechanical design  
@@ -90,6 +61,6 @@ Download any `.step` file from the **exports/** folder and open it in:
 
 # Contact
 
-LinkedIn: *your-link*  
+LinkedIn: *www.linkedin.com/in/ahmet-polat-47b202362*  
 GitHub Portfolio Site: *your GitHub Pages link (coming soon)*  
-Email: *your email*
+Email: *ahmselpol@gmail.com*
