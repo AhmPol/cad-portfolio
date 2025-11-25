@@ -8,10 +8,12 @@ This folder contains my original mechanical designs and assemblies.
 
 Example:
 
+```
 Design1_FRC_Robot/
-   - Design1_Original/ → Editable CAD files (.f3d, .sldprt, .sldasm)
-   - Design1_Exports/ → STEP/STL files and renders
-   - Images/ → Screenshots and renders for presentation
+  ├── Design1_Original/ → Editable CAD files (.f3d, .sldprt, .sldasm)
+  ├── Design1_Exports/ → STEP/STL files and renders
+  └── Images/ → Screenshots and renders for presentation
+```
 
 
 ## How to Use
