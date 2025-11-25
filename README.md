@@ -7,10 +7,11 @@ It includes tutorials for skill-building, original mechanical designs, FRC-relat
 
 ## Folder Structure
 
-tutorials/ → CAD practice and guided exercises
-original-projects/ → My own designs and mechanical concepts
-renderings/ → Best project renderings (PNG, JPG)
+```
+basics/ → CAD practice and guided exercises
+original-projects/ → My own designs
 exports/ → STEP files for all major parts
+```
 
 ---
 
@@ -22,8 +23,6 @@ A full mechanical assembly modeled in Onshape.
 - Complex drivetrain  
 - Belt/chain routing  
 - Gearbox integration  
-- Exploded view  
-- Renderings included  
 
 **Files:**  
 `original-projects/frc-robot-assembly/`
